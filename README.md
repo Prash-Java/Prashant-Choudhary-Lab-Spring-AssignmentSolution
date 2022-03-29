@@ -11,4 +11,5 @@
 10) Github
 11) Html & CSS
 12) NOTE: This project on the instruction of our mentor has replaced Student Id field in problem statement as First Name & Last Name,
-13) Department is replaced as Course on our Mentor Instructions
+     Department is replaced as Course on our Mentor Instructions
+13) NOTE: while uploading file into github, target folder is not included as its size on disk is close to 50 mb
